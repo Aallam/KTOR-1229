@@ -28,7 +28,7 @@ class MainActivity : AppCompatActivity() {
                 val request = HttpRequestBuilder().apply {
                     url.protocol = URLProtocol.HTTPS
                     url.host = "httpbin.org"
-                    url.path("delay/1000")
+                    url.path("delay/10")
                     timeout {
                         socketTimeoutMillis = 100
                     }
