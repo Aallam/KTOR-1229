@@ -1,0 +1,93 @@
+2020-11-03 15:51:30.682 29179-29179/? I/aallam.ktor122: Not late-enabling -Xcheck:jni (already on)
+2020-11-03 15:51:30.713 29179-29179/? I/aallam.ktor122: Unquickening 12 vdex files!
+2020-11-03 15:51:30.717 29179-29179/? W/aallam.ktor122: Unexpected CPU variant for X86 using defaults: x86
+2020-11-03 15:51:31.164 29179-29179/com.aallam.ktor1229 D/NetworkSecurityConfig: No Network Security Config specified, using platform default
+2020-11-03 15:51:31.165 29179-29179/com.aallam.ktor1229 D/NetworkSecurityConfig: No Network Security Config specified, using platform default
+2020-11-03 15:51:31.193 29179-29239/com.aallam.ktor1229 D/libEGL: loaded /vendor/lib/egl/libEGL_emulation.so
+2020-11-03 15:51:31.194 29179-29239/com.aallam.ktor1229 D/libEGL: loaded /vendor/lib/egl/libGLESv1_CM_emulation.so
+2020-11-03 15:51:31.198 29179-29239/com.aallam.ktor1229 D/libEGL: loaded /vendor/lib/egl/libGLESv2_emulation.so
+2020-11-03 15:51:31.453 29179-29179/com.aallam.ktor1229 W/aallam.ktor122: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (greylist, reflection, allowed)
+2020-11-03 15:51:31.454 29179-29179/com.aallam.ktor1229 W/aallam.ktor122: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (greylist, reflection, allowed)
+2020-11-03 15:51:31.662 29179-29237/com.aallam.ktor1229 D/HostConnection: HostConnection::get() New Host Connection established 0xf2736d40, tid 29237
+2020-11-03 15:51:31.675 29179-29237/com.aallam.ktor1229 D/HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_YUV_Cache ANDROID_EMU_async_unmap_buffer GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0
+2020-11-03 15:51:31.678 29179-29237/com.aallam.ktor1229 W/OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+2020-11-03 15:51:31.679 29179-29237/com.aallam.ktor1229 D/EGL_emulation: eglCreateContext: 0xf2736800: maj 3 min 0 rcv 3
+2020-11-03 15:51:31.681 29179-29237/com.aallam.ktor1229 D/EGL_emulation: eglMakeCurrent: 0xf2736800: ver 3 0 (tinfo 0xf2a7a410) (first time)
+2020-11-03 15:51:31.700 29179-29237/com.aallam.ktor1229 I/Gralloc4: mapper 4.x is not supported
+2020-11-03 15:51:31.702 29179-29237/com.aallam.ktor1229 D/HostConnection: createUnique: call
+2020-11-03 15:51:31.702 29179-29237/com.aallam.ktor1229 D/HostConnection: HostConnection::get() New Host Connection established 0xf2736e20, tid 29237
+2020-11-03 15:51:31.702 29179-29237/com.aallam.ktor1229 D/goldfish-address-space: allocate: Ask for block of size 0x100
+2020-11-03 15:51:31.703 29179-29237/com.aallam.ktor1229 D/goldfish-address-space: allocate: ioctl allocate returned offset 0x3fd72a000 size 0x2000
+2020-11-03 15:51:31.713 29179-29240/com.aallam.ktor1229 W/System.err: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2020-11-03 15:51:31.713 29179-29240/com.aallam.ktor1229 W/System.err: SLF4J: Defaulting to no-operation (NOP) logger implementation
+2020-11-03 15:51:31.713 29179-29240/com.aallam.ktor1229 W/System.err: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2020-11-03 15:51:31.734 29179-29237/com.aallam.ktor1229 D/HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_YUV_Cache ANDROID_EMU_async_unmap_buffer GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0
+2020-11-03 15:51:31.995 29179-29240/com.aallam.ktor1229 I/System.out: HttpClient: REQUEST: https://httpbin.org/delay/1000
+2020-11-03 15:51:31.995 29179-29240/com.aallam.ktor1229 I/System.out: HttpClient: METHOD: HttpMethod(value=GET)
+2020-11-03 15:51:31.995 29179-29240/com.aallam.ktor1229 I/System.out: HttpClient: COMMON HEADERS
+2020-11-03 15:51:32.000 29179-29240/com.aallam.ktor1229 I/System.out: HttpClient: -> Accept: */*
+2020-11-03 15:51:32.000 29179-29240/com.aallam.ktor1229 I/System.out: HttpClient: -> Accept-Charset: UTF-8
+2020-11-03 15:51:32.000 29179-29240/com.aallam.ktor1229 I/System.out: HttpClient: CONTENT HEADERS
+2020-11-03 15:51:32.002 29179-29240/com.aallam.ktor1229 I/System.out: HttpClient: BODY Content-Type: null
+2020-11-03 15:51:32.052 29179-29240/com.aallam.ktor1229 I/System.out: HttpClient: BODY START
+2020-11-03 15:51:32.053 29179-29240/com.aallam.ktor1229 I/System.out: HttpClient:
+2020-11-03 15:51:32.053 29179-29240/com.aallam.ktor1229 I/System.out: HttpClient: BODY END
+2020-11-03 15:51:32.569 29179-29240/com.aallam.ktor1229 I/System.out: HttpClient: REQUEST https://httpbin.org/delay/1000 failed with exception: java.net.SocketTimeoutException: timeout
+2020-11-03 15:51:32.593 29179-29240/com.aallam.ktor1229 E/AndroidRuntime: FATAL EXCEPTION: DefaultDispatcher-worker-1
+    Process: com.aallam.ktor1229, PID: 29179
+    java.net.SocketTimeoutException: timeout
+        at com.android.okhttp.okio.Okio$3.newTimeoutException(Okio.java:214)
+        at com.android.okhttp.okio.AsyncTimeout.exit(AsyncTimeout.java:263)
+        at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:217)
+        at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:307)
+        at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:301)
+        at com.android.okhttp.okio.RealBufferedSource.readUtf8LineStrict(RealBufferedSource.java:197)
+        at com.android.okhttp.internal.http.Http1xStream.readResponse(Http1xStream.java:188)
+        at com.android.okhttp.internal.http.Http1xStream.readResponseHeaders(Http1xStream.java:129)
+        at com.android.okhttp.internal.http.HttpEngine.readNetworkResponse(HttpEngine.java:750)
+        at com.android.okhttp.internal.http.HttpEngine.readResponse(HttpEngine.java:622)
+        at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:475)
+        at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponse(HttpURLConnectionImpl.java:411)
+        at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponseCode(HttpURLConnectionImpl.java:542)
+        at com.android.okhttp.internal.huc.DelegatingHttpsURLConnection.getResponseCode(DelegatingHttpsURLConnection.java:106)
+        at com.android.okhttp.internal.huc.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:30)
+        at io.ktor.client.engine.android.AndroidClientEngine.execute(AndroidClientEngine.kt:85)
+        at io.ktor.client.engine.HttpClientEngine$executeWithinCallContext$2.invokeSuspend(HttpClientEngine.kt:86)
+        at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+        at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:56)
+        at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:571)
+        at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:738)
+        at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:678)
+        at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:665)
+     Caused by: java.net.SocketTimeoutException: Read timed out
+        at java.net.SocketInputStream.socketRead0(Native Method)
+        at java.net.SocketInputStream.socketRead(SocketInputStream.java:119)
+        at java.net.SocketInputStream.read(SocketInputStream.java:176)
+        at java.net.SocketInputStream.read(SocketInputStream.java:144)
+        at com.android.org.conscrypt.ConscryptEngineSocket$SSLInputStream.readFromSocket(ConscryptEngineSocket.java:936)
+        at com.android.org.conscrypt.ConscryptEngineSocket$SSLInputStream.processDataFromSocket(ConscryptEngineSocket.java:900)
+        at com.android.org.conscrypt.ConscryptEngineSocket$SSLInputStream.readUntilDataAvailable(ConscryptEngineSocket.java:815)
+        at com.android.org.conscrypt.ConscryptEngineSocket$SSLInputStream.read(ConscryptEngineSocket.java:788)
+        at com.android.okhttp.okio.Okio$2.read(Okio.java:138)
+        at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:213)
+        at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:307) 
+        at com.android.okhttp.okio.RealBufferedSource.indexOf(RealBufferedSource.java:301) 
+        at com.android.okhttp.okio.RealBufferedSource.readUtf8LineStrict(RealBufferedSource.java:197) 
+        at com.android.okhttp.internal.http.Http1xStream.readResponse(Http1xStream.java:188) 
+        at com.android.okhttp.internal.http.Http1xStream.readResponseHeaders(Http1xStream.java:129) 
+        at com.android.okhttp.internal.http.HttpEngine.readNetworkResponse(HttpEngine.java:750) 
+        at com.android.okhttp.internal.http.HttpEngine.readResponse(HttpEngine.java:622) 
+        at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:475) 
+        at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponse(HttpURLConnectionImpl.java:411) 
+        at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponseCode(HttpURLConnectionImpl.java:542) 
+        at com.android.okhttp.internal.huc.DelegatingHttpsURLConnection.getResponseCode(DelegatingHttpsURLConnection.java:106) 
+        at com.android.okhttp.internal.huc.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:30) 
+        at io.ktor.client.engine.android.AndroidClientEngine.execute(AndroidClientEngine.kt:85) 
+        at io.ktor.client.engine.HttpClientEngine$executeWithinCallContext$2.invokeSuspend(HttpClientEngine.kt:86) 
+        at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33) 
+        at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:56) 
+        at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:571) 
+        at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:738) 
+        at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:678) 
+        at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:665) 
+2020-11-03 15:51:32.632 29179-29240/com.aallam.ktor1229 I/Process: Sending signal. PID: 29179 SIG: 9
